@@ -1,5 +1,5 @@
 # learninggit
 Order of learning git hub
 
-git hub is a Centraol repositiry
-Git is the tool to Contril versioning of files or folders.
+git hub is a Central repositary
+Git is the tool.to Control versoning  of the  files or folders.
